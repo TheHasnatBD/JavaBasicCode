@@ -10,6 +10,7 @@
 * Abstraction
 * Interface
 * Exception handling
+* Thread
 * Files and I/O
 * LinkedList
 * HashMap
