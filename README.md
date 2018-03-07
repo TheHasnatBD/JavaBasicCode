@@ -1,2 +1,16 @@
 # Java Basic Code
-If-else, loop, array, Class-object, Inheritance, Polymorphism, Interface, Exception handling, File I/O, LinkedList, HashMap, HashSet
+
+* If-else
+* Switch Case
+* Loop
+* Array
+* Class-object
+* Inheritance
+* Polymorphism
+* Abstraction
+* Interface
+* Exception handling
+* Files and I/O
+* LinkedList
+* HashMap
+* HashSet
