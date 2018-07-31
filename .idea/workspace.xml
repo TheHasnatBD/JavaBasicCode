@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2e7a8ce-1253-409a-8d3d-6d5c8775742b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/association/StudentInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/association/StudentInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/association/StudentMainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/association/StudentMainClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="d2e7a8ce-1253-409a-8d3d-6d5c8775742b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,25 +19,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="7" />
+          <entry key="java" value="11" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="11" />
           <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="279" />
+          <entry key="java" value="907" />
           <entry key="md" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="279" />
+          <entry key="JAVA" value="907" />
           <entry key="Markdown" value="50" />
         </counts>
       </usages-collector>
@@ -50,63 +46,63 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/association/StudentMainClass.java">
+        <entry file="file://$PROJECT_DIR$/src/inheritance/BankMainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="57" column="66" lean-forward="true" selection-start-line="57" selection-start-column="66" selection-end-line="57" selection-end-column="66" />
+            <state relative-caret-position="183">
+              <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/association/StudentInfo.java">
+        <entry file="file://$PROJECT_DIR$/src/inheritance/BankAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="83" column="33" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="33" />
+            <state relative-caret-position="133">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
               <folding>
-                <element signature="e#1382#1383#0" expanded="true" />
-                <element signature="e#1428#1429#0" expanded="true" />
-                <element signature="e#1477#1478#0" expanded="true" />
-                <element signature="e#1514#1515#0" expanded="true" />
-                <element signature="e#1582#1583#0" expanded="true" />
-                <element signature="e#1634#1635#0" expanded="true" />
-                <element signature="e#1808#1809#0" expanded="true" />
-                <element signature="e#1860#1861#0" expanded="true" />
-                <element signature="e#2060#2061#0" expanded="true" />
-                <element signature="e#2097#2098#0" expanded="true" />
-                <element signature="e#2165#2166#0" expanded="true" />
-                <element signature="e#2217#2218#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
+                <element signature="e#604#605#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+                <element signature="e#696#697#0" expanded="true" />
+                <element signature="e#737#738#0" expanded="true" />
+                <element signature="e#774#775#0" expanded="true" />
+                <element signature="e#834#835#0" expanded="true" />
+                <element signature="e#886#887#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/association/StudentContact.java">
+        <entry file="file://$PROJECT_DIR$/src/inheritance/Savings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            <state relative-caret-position="181">
+              <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
               <folding>
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
-                <element signature="e#509#510#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/association/StudentAddress.java">
+        <entry file="file://$PROJECT_DIR$/src/inheritance/Checking.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+            <state relative-caret-position="259">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -132,10 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/hasnat/DataType_Operator.java" />
-        <option value="$PROJECT_DIR$/src/com/hasnat/Method.java" />
-        <option value="$PROJECT_DIR$/src/com/hasnat/StringArray.java" />
-        <option value="$PROJECT_DIR$/src/com/hasnat/ConditionSwitch.java" />
         <option value="$PROJECT_DIR$/src/com/hasnat/SimlpeCondition.java" />
         <option value="$PROJECT_DIR$/src/com/hasnat/SimpleProjectWithMethod.java" />
         <option value="$PROJECT_DIR$/src/com/hasnat/LecFour.java" />
@@ -183,6 +175,10 @@
         <option value="$PROJECT_DIR$/src/association/StudentInfo.java" />
         <option value="$PROJECT_DIR$/src/association/StudentContact.java" />
         <option value="$PROJECT_DIR$/src/association/StudentMainClass.java" />
+        <option value="$PROJECT_DIR$/src/inheritance/Checking.java" />
+        <option value="$PROJECT_DIR$/src/inheritance/BankAccount.java" />
+        <option value="$PROJECT_DIR$/src/inheritance/Savings.java" />
+        <option value="$PROJECT_DIR$/src/inheritance/BankMainClass.java" />
       </list>
     </option>
   </component>
@@ -222,7 +218,7 @@
               <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="association" type="462c0819:PsiDirectoryNode" />
+              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,7 +232,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533046973581" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533055262332" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
@@ -261,20 +257,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StudentMainClass">
+  <component name="RunManager" selected="Application.BankMainClass">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMap_HashSet.HashSetExample" />
+    <configuration name="BankMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance.BankMainClass" />
       <module name="Java Core Code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HashMap_HashSet.*" />
+          <option name="PATTERN" value="inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -368,19 +364,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HashSetExample" />
       <item itemvalue="Application.MakeFile" />
       <item itemvalue="Application.InputFile" />
       <item itemvalue="Application.OutputFIle" />
       <item itemvalue="Application.StudentMainClass" />
+      <item itemvalue="Application.BankMainClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BankMainClass" />
         <item itemvalue="Application.StudentMainClass" />
         <item itemvalue="Application.OutputFIle" />
         <item itemvalue="Application.InputFile" />
         <item itemvalue="Application.MakeFile" />
-        <item itemvalue="Application.HashSetExample" />
       </list>
     </recent_temporary>
   </component>
@@ -403,12 +399,12 @@
       <workItem from="1520329486340" duration="316000" />
       <workItem from="1520331641914" duration="70000" />
       <workItem from="1520331736773" duration="11871000" />
-      <workItem from="1533041541174" duration="3941000" />
+      <workItem from="1533041541174" duration="10366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24884000" />
+    <option name="totallyTimeSpent" value="31309000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="25" width="1313" height="743" extended-state="6" />
@@ -424,7 +420,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19575857" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.406199" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -738,25 +734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/association/StudentContact.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/association/StudentInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -785,10 +762,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/association/StudentContact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/association/StudentMainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
+        <state relative-caret-position="189">
           <caret line="57" column="66" lean-forward="true" selection-start-line="57" selection-start-column="66" selection-end-line="57" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/Checking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/Savings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inheritance/BankMainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
         </state>
       </provider>
     </entry>
