@@ -1,4 +1,4 @@
-package Association;
+package association;
 
 public class StudentCourse {
 

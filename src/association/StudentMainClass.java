@@ -1,4 +1,4 @@
-package Association;
+package association;
 
 import java.util.ArrayList;
 
