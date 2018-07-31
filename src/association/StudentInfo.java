@@ -18,6 +18,11 @@ public class StudentInfo {
        One student has twice or, more than courses*/
     private ArrayList<StudentCourse> studentCourses;
 
+    /* ONE-to-ONE association (because, has a relation btn these)
+       One student has unique contact*/
+    private StudentContact studentContact;
+
+
 
 
     // Constructor Overloading
@@ -72,6 +77,14 @@ public class StudentInfo {
         this.studentCourses = studentCourses;
     }
 
+    public StudentContact getStudentContact() {
+        return studentContact;
+    }
+
+    public void setStudentContact(StudentContact studentContact) {
+        this.studentContact = studentContact;
+    }
+
     @Override
     public String toString() {
         return "StudentInfo{" +
@@ -80,7 +93,7 @@ public class StudentInfo {
                 ", studentDept='" + studentDept + '\'' +
                 ", studentAddress=" + studentAddress +
                 ", studentCourses=" + studentCourses +
+                ", studentContact=" + studentContact +
                 '}';
     }
-
 }

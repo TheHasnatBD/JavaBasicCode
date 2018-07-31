@@ -13,6 +13,7 @@ public class StudentMainClass {
         StudentAddress address = new StudentAddress("H-13", "xyz road", "Dhaka", 1208);
         st1.setStudentAddress(address);
 
+
         System.out.println("--------------------");
         st1.setStudentID("s-101");
         System.out.println(st1.getStudentName());
@@ -45,6 +46,19 @@ public class StudentMainClass {
         for (StudentCourse course : st2.getStudentCourses()){
             System.out.println(course.getCourseName());
         }
+
+        /**
+         * StudentContact
+         */
+        StudentContact contact = new StudentContact("hasnat@xyz.com", "01811111111");
+        st1.setStudentContact(contact);
+
+        System.out.println("--------------------");
+        System.out.println(st1.getStudentContact());
+        System.out.println(st1.getStudentContact().getPhoneNum());
+        st2.setStudentContact(new StudentContact("pavel@xyz.com"));
+        System.out.println(st2.getStudentContact());
+        System.out.println(st2);
 
 
     }
