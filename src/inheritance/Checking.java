@@ -1,6 +1,7 @@
 package inheritance;
 
 public class Checking extends BankAccount{
+
     private double serviceCharge;
 
     public Checking(String accountName, String accountNo, double accountBalance, double serviceCharge) {

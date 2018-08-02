@@ -23,7 +23,6 @@ public class Savings extends BankAccount {
     @Override
     public String withdraw(double amount) {
         if (getAccountBalance() - amount > 500) {
-
             setAccountBalance(getAccountBalance() - amount);
             return "Your amount has been debited with BDT " + amount + "/=\nCurrent balance = " + getAccountBalance() + "/=\n";
 
